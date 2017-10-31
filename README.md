@@ -1,2 +1,5 @@
 # android-journey
-List of notes from while learning android
+List of notes while learning android
+
+## Tutorial
+1. [Hello Android using Kotlin and Android Studio](https://quip.com/I6ZxAC12h07a)
